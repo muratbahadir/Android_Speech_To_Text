@@ -8,4 +8,4 @@ Konuştuğunuzda okunan ses verileri eş zamanlı olarak açılan pencerede göz
 Pop-Up olmadan butonuna tıkladınızda yine başla butonuna tıklayarak kaydı başlatabilirsiniz. Diğerine kıyasla tek fark bunda sadece ses kaydının başladığına dair bir uyarı mesajı verilir.
 Uygulama ses alamadığında veya siz "BİTİR" butonuna tıkladığınızda kayıt durur ve sonuçlar TextView üzerinde gösterilir.
 
-İki yöntemde de Google Speech To Text API kullanılıyor ve  "Google Uygulamalar" uygulamasının telefonunuzda yüklü olması gerekiyor.
+İki yöntemde de Google Speech To Text API kullanılıyor ve  "Google" uygulamasının telefonunuzda yüklü olması gerekiyor.
