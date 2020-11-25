@@ -1,5 +1,6 @@
 # Android_Speech_To_Text
 Mobiler.dev platformunda "Android Uygulamarında Sesten Yazıya Çevirme" başlıklı yazımda anlattığım örnek proje.
+
 Yazı Linki: https://www.mobiler.dev/post/android-de-sesten-yazıya-çevirme
 
 Uygulama başlatıldığında çıkan ilk ekranda hangi yöntemle ses tanıma yapmak istediğinizi seçebilirsiniz.
