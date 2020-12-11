@@ -1,5 +1,5 @@
 # Android_Speech_To_Text
-Mobiler.dev platformunda "Android Uygulamarında Sesten Yazıya Çevirme" başlıklı yazımda anlattığım örnek proje.
+Mobiler.dev platformunda "Android Uygulamalarında Sesten Yazıya Çevirme" başlıklı yazımda anlattığım örnek proje.
 
 Yazı Linki: https://www.mobiler.dev/post/android-de-sesten-yazıya-çevirme
 
