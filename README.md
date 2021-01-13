@@ -1,7 +1,7 @@
 # Android_Speech_To_Text
 Mobiler.dev platformunda "Android Uygulamalarında Sesten Yazıya Çevirme" başlıklı yazımda anlattığım örnek proje.
 
-Yazı Linki: https://www.mobiler.dev/post/android-de-sesten-yazıya-çevirme
+Yazı Linki: https://www.mobiler.dev/post/google-speech-to-text-api
 
 Uygulama başlatıldığında çıkan ilk ekranda hangi yöntemle ses tanıma yapmak istediğinizi seçebilirsiniz.
 Google Pop-Up ile tanıma yapmak istediğinizde açılan ekrandaki butona basmanız ve konuşmanız yeterli olacaktır.
